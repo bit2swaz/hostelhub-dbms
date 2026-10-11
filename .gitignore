@@ -1,0 +1,7 @@
+target/
+*:Zone.Identifier
+nbactions.xml
+nb-configuration.xml
+.idea/
+*.iml
+.vscode/
